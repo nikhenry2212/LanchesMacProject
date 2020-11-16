@@ -1,0 +1,11 @@
+C:\Users\rossi\Documents\Visual Studio 2017\Projects\LanchesMac\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.deps.json
+C:\Users\rossi\Documents\Visual Studio 2017\Projects\LanchesMac\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.runtimeconfig.json
+C:\Users\rossi\Documents\Visual Studio 2017\Projects\LanchesMac\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.runtimeconfig.dev.json
+C:\Users\rossi\Documents\Visual Studio 2017\Projects\LanchesMac\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.dll
+C:\Users\rossi\Documents\Visual Studio 2017\Projects\LanchesMac\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.pdb
+C:\Users\rossi\Documents\Visual Studio 2017\Projects\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.csprojAssemblyReference.cache
+C:\Users\rossi\Documents\Visual Studio 2017\Projects\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.csproj.CoreCompileInputs.cache
+C:\Users\rossi\Documents\Visual Studio 2017\Projects\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.AssemblyInfoInputs.cache
+C:\Users\rossi\Documents\Visual Studio 2017\Projects\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.AssemblyInfo.cs
+C:\Users\rossi\Documents\Visual Studio 2017\Projects\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.dll
+C:\Users\rossi\Documents\Visual Studio 2017\Projects\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.pdb
