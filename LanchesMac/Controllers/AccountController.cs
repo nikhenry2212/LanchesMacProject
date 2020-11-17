@@ -83,6 +83,8 @@ namespace LanchesMac.Controllers
             }
             return View(loginVM);
         }
+        public ViewResult LoggedIn() => View();
+
         [HttpPost]
         [Authorize]
         public async Task<IActionResult> Logout()
